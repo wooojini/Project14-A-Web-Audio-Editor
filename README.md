@@ -40,3 +40,5 @@ cd frontend/
 npm install
 npm run dev
 ```
+## [🎥유튜브 데모영상 보러가기](https://www.youtube.com/watch?v=KJmMKFirbUs)
+[![Watch the video](https://i.ytimg.com/an_webp/KJmMKFirbUs/mqdefault_6s.webp?du=3000&sqp=CLfzwv8F&rs=AOn4CLCOW3nnlV7lPJH-iXK4q6jF2uVO6A)](https://www.youtube.com/watch?v=KJmMKFirbUs&t=26s)
